@@ -1,4 +1,2 @@
 # Donders
-[Large scale interactions in the cortico-hippocampal network:]
-
-Sleep is important for memory consolidation and complex interactions across brain areas are most likely crucial. In a series of experiments we have recorded some of the largest electrophysiological data sets available, simultaneously in multiple brain areas in rats. For example, in the hippocampus and prefrontal cortex during sleep after different behaviours as well as hippocampus, prefrontal cortex and parietal. In this project the student would analyse these data sets, especially with respect to which perturbations can be seen in other brain areas before, during and after a specific sleep-oscillation (the sharp wave ripple), known to be important for memory consolidation processes. The analysis will pertain both how individual cells, neuronal ensembles, as well as how the summation signal (sleep oscillations) are affected and would involve spectral analysis and machine learning. 
+Outdated repository.
